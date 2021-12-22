@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
- <body>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<?xml version="1.0" encoding="utf-8"?><html>
+<body>
     <item>
       <time>05.04.2011 9:53:23</time>
       <infrastructure>cloud</infrastructure>
@@ -8,4 +9,5 @@
       <backend>Python</backend>
     </item>
   </body>
-</xml>
+
+</html>
