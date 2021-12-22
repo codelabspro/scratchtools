@@ -1,0 +1,6 @@
+<inputfile>
+  <infrastructure>cloud</infrastructure>
+  <database>postgres</database>
+  <frontend>Next</frontend>
+  <backend>Python</backend>
+</inputfile>

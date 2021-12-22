@@ -7,5 +7,6 @@ Add this line to your application's Gemfile:
 ## Usage
 
 ~~~
-ruby scratchtools.rb
+gem install nokogiri
+ruby scratchtools.rb 
 ~~~
