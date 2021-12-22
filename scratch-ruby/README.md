@@ -2,4 +2,3 @@
 
 Add this line to your application's Gemfile:
 
-gem 'daslabs'
