@@ -1,0 +1,21 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    cli-console (0.1.4)
+    dasauto (0.3.0)
+      nokogiri (>= 1.5.0)
+    highline (1.7.10)
+    nokogiri (1.12.5-arm64-darwin)
+      racc (~> 1.4)
+    racc (1.6.0)
+
+PLATFORMS
+  arm64-darwin-21
+
+DEPENDENCIES
+  cli-console (~> 0.1.4)
+  dasauto (~> 0.3.0)
+  highline (~> 1.7, >= 1.7.8)
+
+BUNDLED WITH
+   2.2.33
